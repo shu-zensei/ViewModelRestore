@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ViewModelRestore</string>
+    <string name="button1">button</string>
+    <string name="textView1">111</string>
 </resources>
